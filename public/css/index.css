@@ -1,0 +1,10 @@
+body {
+    font-family: 'Arimo', Arial,  sans-serif;
+    background-color: #e5e5f7;
+    background-image: radial-gradient(#444cf7 1px, #e5e5f7 1px);
+    background-size: 20px 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
